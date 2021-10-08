@@ -5,7 +5,10 @@
  To try out these UI templates, you need to use [Android Studio Arctic Fox](https://developer.android.com/studio).<br>
  You can clone this repository or import the project from Android Studio following the steps [here](https://github.com/Horizon733/Anime-app.git).
  
- Note: This app is in development, issues are opened to contribute and bring this kind of app in Jetpack compose
+ ### Notes: 
+ - This app is in development, issues are opened to contribute and bring this kind of app in Jetpack compose
+ - Make bottom navigation to navigate through out the app.
+ - Make use of [Jikan API](https://rapidapi.com/theapiguy/api/jikan1/)
  
  ## Features
  - Shows anime information
