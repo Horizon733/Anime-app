@@ -1,4 +1,4 @@
-package com.example.animeapp.presentation
+package com.example.animeapp.presentation.profile_screen
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -10,13 +10,13 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 
 @Composable
-fun HomeScreen() {
+fun ProfileScreen() {
     Box(
         modifier = Modifier
             .fillMaxSize()
             .background(Color.White),
         contentAlignment = Alignment.Center
     ) {
-        Text(text = "Home Screen")
+        Text(text = "Profile Screen")
     }
 }

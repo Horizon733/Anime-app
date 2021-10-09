@@ -13,7 +13,9 @@ import com.example.animeapp.presentation.components.BottomNavigationBar
 import com.example.animeapp.presentation.util.BottomNavItem
 import com.example.animeapp.presentation.util.Navigation
 import com.example.animeapp.ui.theme.AnimeAppTheme
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainActivity : ComponentActivity() {
 
     private val bottomNavigationItem = listOf(
