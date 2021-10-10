@@ -4,9 +4,9 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.example.animeapp.presentation.HomeScreen
-import com.example.animeapp.presentation.ProfileScreen
-import com.example.animeapp.presentation.SearchScreen
+import com.example.animeapp.presentation.home_screen.HomeScreen
+import com.example.animeapp.presentation.profile_screen.ProfileScreen
+import com.example.animeapp.presentation.search_screen.SearchScreen
 
 @Composable
 fun Navigation(
